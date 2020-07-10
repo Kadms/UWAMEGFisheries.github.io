@@ -1,4 +1,4 @@
-﻿---
+---
 layout: article
 title: "Fernanda Rolim"
 categories: phd-alumni
