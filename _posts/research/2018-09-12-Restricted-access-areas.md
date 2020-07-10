@@ -22,26 +22,5 @@ This scholarship includes $30,000 stipend per annum (UWA-BHP University Postgrad
 UWA-BHP Postgraduate Research Scholarship
 <img src='/images/5x8_shark.png' align='right' width="350" hspace="20" vspace="10">
 
-# Study area
-Ningaloo and Pilbara region, offshore.
 
-# Value
-$12,222 top-up per annum plus a total $283k research budget
 
-# Eligibility
-Applicants should make contact to discuss eligibility and the application process. 
-
-# Nationality
-Australian Citizen, Australian Permanent Resident, or International
-		
-# Applications close
-15/03/2020
-
-# Commencement date
-Before the 01/06/2020
-
-# Funding source
-UWA and BHP collaboration: Biodiversity and societal benefits of subsea development areas
-
-# Contact
-tim.langlois@uwa.edu.au
